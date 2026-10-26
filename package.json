@@ -1,0 +1,11 @@
+{
+  "name": "helloworld-yys",
+  "version": "1.0.0",
+  "description": "Hello World website built with Node.js by YYS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "YYS",
+  "license": "MIT"
+}
